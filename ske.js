@@ -4,20 +4,14 @@ function setup() {
   noFill();
 
   stroke(255, 0, 0);
+ function drow() {
+  
 
-  var x;
-
-  x = 100;
-  ellipse(x, 100, 50, 50);
-
-  x = 250;
-  ellipse(x, 100, 50, 50);
-
-  x = 300; 
-  ellipse(x, 100, 50, 50);   
 for (var x = 1; x <= 8; x++)
 {
   ellipse(x * 70, x * 20 + 100, 50, 50);
 }
 }
  
+var size = Math, abs(mouseX=320);
+ }
